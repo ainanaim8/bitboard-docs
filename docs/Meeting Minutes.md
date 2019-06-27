@@ -3,85 +3,95 @@
 This meeting minutes in this file are the summeries of meeting notes from members, for major meetings usually involve participants outside the team. This team had regular and less formal meetings throughout the project. Please see the seperate file for the record. Compiling the bits and pieces from notebooks together has been a good review of the journey this team has gone through.
 
 
-## 1, Briefing with Jonny  
-30 Apr 2019, 610b  
-all team members excpet Thomas, Johny from micro:bit  
-- team member self-introduction
-### From Jonny's briefing
-- 3 sources of knowledge from micro:bit to this project:
-    - tech.microbit.org; documentation for previous work done;
-    - microbit.org; accessory guide;
-    - github, microbit-dal; the starting point for this project;
-- explanation of requirements:
-    - ble keyboard
-    - accessory
-    - for kids
-    - open end nature
-- production tools:
-    - arm mbed (online editor)
-    - MakeCode environment
-    - typescript  
+## 1. Briefing with Jonny  
+**Date:** 30 Apr 2019 <br>
+**Venue:** Room 610b  
+**Attendance:** All team members except Thomas, Johny from micro:bit  
+
+**Discussion:**
+* Team members self-introduction
+#### From Jonny's briefing
+* 3 useful resources from micro:bit suggested by Jonny:
+    * tech.microbit.org - documentations for previous work done;
+    * microbit.org - accessories guide;
+    * github, microbit-dal - the starting point for this project;
+* Explanation of requirements:
+    * External accessory for the micro:bit
+    * BLE keyboard
+    * User-friendly
+    * Open-ended nature
+* Production tools:
+    * arm mbed (online editor)
+    * MakeCode environment
+    * Typescript  
     
-**action points:**
-- James will get one micro:bit from Amazon
-- Jonny would send more micro:bits for the team to use
-- research topics:
-    - MakeCode Extensions
-    - BLE library / profile
-    - HID over GATT protocal
-    - megabit from last year
-    - existing accessories like bit:commander
-- summeries reasearch outcome and questions before next Tuesday
-- propose meeting with academic supervisor
+**Action Plans:**
+* James will get one micro:bit from Amazon
+* Jonny would send more micro:bits for the team to use and test
+* Research topics:
+    * MakeCode Extensions
+    * BLE library / profile
+    * HID over GATT protocol
+    * mega:bit accessory project from last year's Industrial Project group
+    * Similar existing accessories e.g. bit:commander
+* Summarises research outcomes and questions before next Tuesday
+* Propose meeting with academic supervisor
 
-- proposed next team meeting: before the end of week 1
+## 2. Initial Concept Brainstorm
+**Date:** 2 May 2019 <br>
+**Venue:** Level 3 Computer Labs <br>
+**Attendance:** All team members
 
-## 2, Initial Concept Brainstorm
-2 May 2019, all team members
-- ideas discussed:
-    - feature phone
-    - mouse like keyboard
-    - PS4 + keyboard
-    - music controller, piano like keyboard
-- Research outcome has been shared among members.
-- Questions about this project and requirements have been gathered for later meeting with Jonny and academic supervisor.   
-- talk with Jonny again as soon 
+**Discussion:**
+* Ideas generated:
+    * Feature phone
+    * Mouse-like keyboard
+    * Customisable controller based on the PS4 controller
+    * Music controller based on piano keyboard
+* Research outcomes were shared among members.
+* Questions about this project and requirements have been gathered for later meetings with Jonny and the academic supervisor. 
 
-## 3, 2nd meeting with Jonny from micro:bit
-14 May 2019, all team members and Jonny  
+**Proposed next team meeting:** Before the end of week 1
 
-**discussion:**
-- possible concepts for keyboard: musical keyboard, game controller, fortnite machine, Makey-Makey, joystick, cardboard edge connector, draw and place, copper tape, graphite, ink, papier machine
-- MakeCode Extension
-- HOGP (HID over GATT protocol) 
-- clarified suggest cost range: similar to micro:bit itself, around 10 US dollar;
-- clarified restrictions on power of device
-- additional production design guideline: Cheap and useful, fit onto a student desk/into a bag
+## 3. 2nd meeting with Jonny from micro:bit
+**Date:** 14 May 2019  
+**Venue:** Room 610b  
+**Attendance:** All team members and Jonny 
 
-**action points:**
-- research existing accessories and similar products on the market
-- keep brainstorming 
-- verify BLE functionality of micro:bit
-- meet again early next week
+**Discussion:**
+* Possible concepts for keyboard: musical keyboard, game controller, fortnite machine, Makey-Makey, joystick, cardboard edge connector, draw and place, copper tape, graphite, ink, papier machine
+* MakeCode Extension
+* HOGP (HID over GATT protocol) 
+* Clarified suggested cost range: similar to micro:bit itself, around 15 US dollars
+* Clarified restrictions on power usage of device and accessory
+* Additional production design guidelines: Cheap and useful, can be fitted inside a student's bag
 
-## 4, Team Workshop 
-21 May 2019, all team members
+**Action Plans:**
+* Research existing accessories and similar products on the market
+* Continue brainstorming more ideas for the accessory
+* Verify BLE functionality of micro:bit
+* Meet again early next week
 
-**discussion**
-- possible inputs:
-    - joystick?s?
-    - dial
+## 4. Team Workshop 
+**Date:** 21 May 2019  
+**Venue:** Room 408  
+**Attendance:** All team members
+
+**Discussion:**
+* Listed down the possible inputs:
+    - Joysticks?
+    - Dial
     - LED indicator
-    - button / touch sensors as keys
-- case / shape: inspiration from nintendo
-- drawings of concept: triangle:bit
+    - Buttons / touch sensors as keys
+* Case / shape: inspiration from nintendo
+* Drawings of concept: triangle:bit
 
-**action points**
-- research suitable components for suggested inputs
-- try to realize BLE keyboard service based on micro:bit_presentor
-- seek advice from academic supervisor
+**Action Plans:**
+* Research suitable components for suggested inputs
+* Try to realize BLE keyboard service based on micro:bit_presenter
+* Seek advices and suggestions from academic supervisor
 
-## 5, 2nd meeting with academic supervisor
+## 5. 2nd meeting with academic supervisor
 23 May 2019, all team members
 
 **discussion**
