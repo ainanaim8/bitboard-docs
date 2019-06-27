@@ -72,18 +72,18 @@ This meeting minutes in this file are the summeries of meeting notes from member
 * Verify BLE functionality of micro:bit
 * Meet again early next week
 
-## 4. Team Workshop 
-**Date:** 21 May 2019  
-**Venue:** Room 408  
+## 4. Team Meeting 
+**Date:** 21 May 2019    
+**Venue:** Room 408    
 **Attendance:** All team members
 
 **Discussion:**
 * Listed down the possible inputs:
-    - Joysticks?
+    - Joysticks
     - Dial
     - LED indicator
     - Buttons / touch sensors as keys
-* Case / shape: inspiration from nintendo
+* Ulterior design brainstorm - taking inspirations from Nintendo and MakeyMakey
 * Drawings of concept: triangle:bit
 
 **Action Plans:**
@@ -91,86 +91,93 @@ This meeting minutes in this file are the summeries of meeting notes from member
 * Try to realize BLE keyboard service based on micro:bit_presenter
 * Seek advices and suggestions from academic supervisor
 
-## 5. 2nd meeting with academic supervisor
-23 May 2019, all team members
+## 5. Meeting with academic supervisor
+**Date:** 23 May 2019    
+**Venue:** Room 612   
+**Attendance:** All team members and Dr. Ed Stott
 
-**discussion**
-- triangle:bit and modular design
-- physical connection
+**Discussion**
+* triangle:bit and modular design
+* physical connection
     - difficulties
     - possible solutions
-- electronic connections
+* electronic connections
     - wire / contacts / connector
     - spin contact pins
     - buses / SPI or I2C network
-- feasibility of graphite tracks and copper tape
-- introduce a drawing ground
+* feasibility of graphite tracks and copper tape
+* introduce a drawing ground
 
-**action points**
-- rethink the concept of triangle:bit
-- research suitable electronic connector
-- verify the conductivity of graphite pencil and copper tape
-- verify wires suitable for kids, presumably cable with crocodile clip
+**Action Plans:**
+* Rethink the concept of triangle:bit
+* Find a suitable edge connector for the micro:bit
+* Verify the conductivity of the graphite pencil and copper tape
+* Verify wires suitable for kids, presumably cable with crocodile clip
 
-## 6, Team Workshop
-28 May 2019, all team members
+## 6. Team Meeting
+**Date:** 28 May 2019    
+**Venue:** Level 3 Computer Labs    
+**Attendance:** All team members
 
-**discussion**
-- possible example/tutorial for the accessory: 
-    - quiz, 
-    - battleship, 
-    - blocking, 
-    - potentiometer, 
-    - pictogram, 
-    - maze, 
-    - wire loop, 
-    - comic box, 
-    - pin ball, 
-    - crossy road
+**Discussion:**
+* Possible examples/tutorials for the accessory:  
+    * Battleship game
+    * Potentiometer drawn with pencil 
+    * Pictogram
+    * Maze game
+    * Wire loop game
+    * Comic strip 
+    * Online games (e.g. Crossy Road) over Bluetooth connection
     
-**action points**
-- start the work of hardware prototype
-- develop mbed code for input signals and related controls for the proposed examples.
+**Action Plans:**
+* Start working on the hardware prototype
+* Develop an mbed code for input signals and related controls for the proposed examples.
 
-## 7, Leaflet and Posters
-6 Jun 2019, all team members
+## 7. Meeting on Leaflet and Poster 
+**Date:** 6 June 2019    
+**Venue:** Level 1 Electronic Labs    
+**Attendance:** All team members except Aina
 
-**discussion:**
-- minimum font for visibility from a distance
-- bubble for content on leaflet
-- pictures / images
-- envelope, printing, marker, crop
-- what sections should be included into poster and key points for each section
-- who is responsible to which section
+**Discussion:**
+* Minimum font for visibility from a distance
+* Contents in speech bubbles on the leaflet
+* Images to be included in the leaflet and poster
+* envelope, printing, marker, crop
+* What sections should be included into poster and key points for each section
+* Distribute work on contents on the poster among team members
 
-**action points**
-- review leaflet content and design
-- write contents for poster
+**Action Plans:**
+* Review leaflet content and design
+* Write contents for poster
 
-## 8, Documentation Discussion
-18 Jun 2019, all team members
-
-**Discussion**
-- what should be included in our documentation
-- job division
-- github platform and mark down files
-
-**action points**
-- start documentation work
-- arrange meeting with Jonny on Thursday
-
-## 9, 3rd meeting with Jonny
-20 Jun 2019, all team members except Aina
+## 8. Documentation Discussion
+**Date:** 18 June 2019    
+**Venue:** Level 3 Computer Labs  
+**Attendance:** All team members
 
 **Discussion**
-- issues encountered when merging BLE with DAL
-- YOTTA and other production tool for BLE function development and debug
-- publish this project on micro:bit's platform
-- documentation details
-- future works in summer
-- potential to talk with accesory producer
+* What should be included in our documentation
+* Job division among team members
+* Use the github platform and mark down files for the documentation
 
-**action points**
-- keep working on merging BLE with DAL
-- keep working on documentation
+**Action Plans:**
+* Start documentation work
+* Arrange meeting with Jonny on Thursday
+
+## 9. 3rd meeting with Jonny
+**Date:** 20 June 2019    
+**Venue:** Room 610b    
+**Attendance:** All team members except Aina
+
+**Discussion**
+* Issues encountered when merging BLE with DAL
+* YOTTA and other production tool for BLE function development and debug
+* Publish the project on micro:bit's platform
+* Documentation details
+* Future works in summer
+* Potential to talk with accesory producer
+
+**Action Plans**
+* Continue working on merging BLE with DAL
+* Continue working on documentation
 
